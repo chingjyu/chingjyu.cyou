@@ -86,7 +86,6 @@ LanguageCode = "zh-CN"
       paginate = 8
   [params.social]
     GitHub = "chingjyu"
-    Twitter = "chingjyu_chan"
     Email = "i@chingjyu.cyou"
 
   [params.header]
