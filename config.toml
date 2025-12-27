@@ -25,12 +25,6 @@ LanguageCode = "zh-CN"
     name = "关于"
     url = "/about/"
     weight = 2
-  [[menu.main]]
-    identifier = "github"
-    pre = "<i class='icon-github'></i>"
-    url = "https://github.com/chingjyu"
-    title = "GitHub"
-    weight = 20
 
 [params]
   defaultTheme = "auto"  # 网站默认主题 ("light", "dark", "auto")
